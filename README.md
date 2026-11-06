@@ -20,7 +20,7 @@ If temperature > 30 °C:
 ## Run it
 1. Open the project in Wokwi: [PASTE YOUR WOKWI LINK HERE]
 2. Press Play
-3. Open the [HiveMQ web client](https://www.hivemq.com/demos/websocket-client/),
+3. Open the [(https://wokwi.com/projects/479978394816379905)
    connect and subscribe to `emri123/iot/#`
 4. Raise the DHT22 temperature above 30 °C to trigger the alarm
 
